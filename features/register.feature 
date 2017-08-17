@@ -1,0 +1,5 @@
+Future: create an account 
+
+Scenario: As a user I can create an account 
+		Given I can access the home page
+		And I then click sign in	
